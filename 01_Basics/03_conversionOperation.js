@@ -24,6 +24,23 @@ let someNumber = 31
 
 let stringNumber = String(someNumber)
 
-console.log(stringNumber);
-console.log(typeof stringNumber);
+//console.log(stringNumber);
+//console.log(typeof stringNumber);
 
+
+//*********************************** Operations **************************************//
+
+let value = 4
+let negValue = -value
+
+//console.log(negValue);
+
+//console.log(true);
+//console.log(+"");
+
+let gameCounter = 200
+gameCounter++;
+console.log(gameCounter);
+
+// Link to Study
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
